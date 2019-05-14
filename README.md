@@ -11,9 +11,9 @@
 为什么这个markdown和我认识的markdown不一样呢。样式真难设计。
 <hr/>
 # 关于截图
- ![screenshots](./截图/1.jpg)
- ![screenshots](./截图/2.jpg)
- ![screenshots](./截图/3.jpg)
- ![screenshots](./截图/4.jpg)
- ![screenshots](./截图/5.jpg)
- ![screenshots](./截图/6.jpg)
+ ![screenshots](https://github.com/nwdxlgzs/Uh/master/截图/1.jpg)
+ ![screenshots](https://github.com/nwdxlgzs/Uh/master/截图/2.jpg)
+ ![screenshots](https://github.com/nwdxlgzs/Uh/master/截图/3.jpg)
+ ![screenshots](https://github.com/nwdxlgzs/Uh/master/截图/4.jpg)
+ ![screenshots](https://github.com/nwdxlgzs/Uh/master/截图/5.jpg)
+ ![screenshots](https://github.com/nwdxlgzs/Uh/master/截图/6.jpg)
