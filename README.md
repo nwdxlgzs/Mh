@@ -8,7 +8,7 @@
 <hr/><br/> 目前，第二部分的app收集基本结束。第一部分正在整合，整合后重新写一遍删了陈余代码。至于代码，我
 有空传吧。
 <hr/><br/>
-为什么这个markdown和我认识的markdown不一样呢。样式真难设计。
+为什么这个markdown和我认识的markdown不一样呢。样式真难设计。按照要求写也不能显示图片……
 <hr/>
 # 关于截图<br/>
 ![截图1](https://github.com/nwdxlgzs/Uh/raw/master/%E6%88%AA%E5%9B%BE/1.jpg "截图1")
