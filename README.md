@@ -19,3 +19,4 @@
 ![截图6](https://github.com/nwdxlgzs/Mh/raw/master/%E6%88%AA%E5%9B%BE/6.png "截图6")
 <br/>
 # 关于传递地址的bat事例<br/>
+![bat_electron_start_demo](https://github.com/nwdxlgzs/Mh/raw/master/bat_electron_start_demo.png "bat_electron_start_demo")
