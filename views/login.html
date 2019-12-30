@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="assets/css/layui.css">
+    <link rel="stylesheet" href="assets/css/admin.css">
+    <link rel="stylesheet" href="assets/css/view.css">
+    <link rel="stylesheet" href="assets/css/login.css">
+    <link rel="icon" href="/favicon.ico">
+    <title>登陆</title>
+</head>
+<body class="login-wrap">
+    <div class="layui-layout layui-layout-admin">
+        <div class="layui-header custom-header" style="-webkit-app-region: drag">
+            <div style="width:100px;height:40px;-webkit-app-region: no-drag" float="left">
+            <ul class="layui-nav layui-layout-right">
+                <li class="layui-nav-item">
+                    <a href="javascript:;" style="-webkit-app-region: no-drag">按钮介绍</a>
+                    <dl class="layui-nav-child" style="-webkit-app-region: no-drag">
+                        <dd><img src="assets/images/img/最小化.png" alt="最小化" style="height:20px" /><strong>最小化</strong></dd>
+                        <dd><img src="assets/images/img/最大化.png" alt="最大化" style="height:20px" /><strong>最大化</strong></dd>
+                        <dd><img src="assets/images/img/关闭.png" alt="关闭" style="height:20px" /><strong>关闭</strong></dd>
+                    </dl>
+                </li>
+                    <button class="layui-btn layui-btn-blue" style="-webkit-app-region: no-drag"  id="minbt">
+                    	<img src="assets/images/img/最小化.png" alt="最小化" style="width:30px;height:30px" />
+                    </button>
+                    <button class="layui-btn layui-btn-blue" style="-webkit-app-region: no-drag"  id="maxbt">
+                    	<img src="assets/images/img/最大化.png" alt="最大化" style="width:30px;height:30px" />
+                    </button>
+                    <button class="layui-btn layui-btn-blue" style="-webkit-app-region: no-drag"  id="closebt">
+                    	<img src="assets/images/img/关闭.png" alt="关闭" style="width:30px;height:30px" />
+                    </button>
+            </ul>
+            </div>
+        </div>
+    </div>
+    <div class="login-container">
+        <form class="login-form">
+            <div class="input-group">
+                <input type="text" id="username" class="input-field">
+                <label for="username" class="input-label">
+                    <span class="label-title">用户名</span>
+                </label>
+            </div>
+            <div class="input-group">
+                <input type="password" id="password" class="input-field">
+                <label for="password" class="input-label">
+                    <span class="label-title">密码</span>
+                </label>
+            </div>
+            <button type="button" class="login-button">登录<i class="ai ai-enter"></i></button>
+        </form>
+    </div>
+            <script src="assets/layui.js"></script>
+    <script src="assets/win-ctrl.js"></script>
+    <script src="index.js" data-main="home"></script>
+    <script src="index.js" data-main="login"></script>
+    </body>
+</html>
